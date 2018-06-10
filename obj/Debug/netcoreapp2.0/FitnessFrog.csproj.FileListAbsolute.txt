@@ -1,0 +1,11 @@
+C:\Users\bahoring\Desktop\FitnessFrog\obj\Debug\netcoreapp2.0\FitnessFrog.csprojAssemblyReference.cache
+C:\Users\bahoring\Desktop\FitnessFrog\obj\Debug\netcoreapp2.0\FitnessFrog.csproj.CoreCompileInputs.cache
+C:\Users\bahoring\Desktop\FitnessFrog\obj\Debug\netcoreapp2.0\FitnessFrog.AssemblyInfoInputs.cache
+C:\Users\bahoring\Desktop\FitnessFrog\obj\Debug\netcoreapp2.0\FitnessFrog.AssemblyInfo.cs
+C:\Users\bahoring\Desktop\FitnessFrog\bin\Debug\netcoreapp2.0\FitnessFrog.deps.json
+C:\Users\bahoring\Desktop\FitnessFrog\bin\Debug\netcoreapp2.0\FitnessFrog.runtimeconfig.json
+C:\Users\bahoring\Desktop\FitnessFrog\bin\Debug\netcoreapp2.0\FitnessFrog.runtimeconfig.dev.json
+C:\Users\bahoring\Desktop\FitnessFrog\bin\Debug\netcoreapp2.0\FitnessFrog.dll
+C:\Users\bahoring\Desktop\FitnessFrog\bin\Debug\netcoreapp2.0\FitnessFrog.pdb
+C:\Users\bahoring\Desktop\FitnessFrog\obj\Debug\netcoreapp2.0\FitnessFrog.dll
+C:\Users\bahoring\Desktop\FitnessFrog\obj\Debug\netcoreapp2.0\FitnessFrog.pdb
